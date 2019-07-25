@@ -1,0 +1,14 @@
+{
+  "name": "temp-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luke255",
+  "license": "ISC",
+  "dependencies": {
+    "temper1": "0.0.9"
+  }
+}
